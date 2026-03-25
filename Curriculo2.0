@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculo para PlayStation </title>
+    <style>
+    
+    body {
+        background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p2/14903353-fundo-gradiente-azul-e-branco-abstrato-ilustracao-abstrata-com-design-de-desfoque-de-gradiente-gradiente-colorido-gratis-foto.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .Box1 {
+    margin: 100px 20% 100px 20%;
+    width: 60%;
+    height: 550px;
+    background-color: rgb(176, 210, 255);
+    border: 15px solid rgb(0, 0, 255);
+    border-radius: 50px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    }
+    
+#subB1 {
+    margin: 15px ;
+    width: auto;
+    height: 90%;
+    
+    
+}
+#img1 {
+    width: auto;
+    height: 100%;
+    border-radius: 20px;
+}
+
+#subB2 {
+    margin: 15px;
+    width: 50%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.ss1 {
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    height: 14.5%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial;
+    font-size: 20px;
+}
+.mimg {
+    margin: 5px;
+    height: 70%;
+    width: auto;
+
+}
+#tito {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+background-color: rgb(176, 210, 255);
+border: 5px solid rgb(0, 0, 255);
+border-radius: 50px;
+    padding: 20px;
+    margin: 50px 20% 50px 20%;
+
+}
+  .BoxPO {
+    margin: 150px 20%;
+    width: 60%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 15px solid rgb(0, 0, 255);
+    border-radius: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+  .titoPO {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+background-color: rgb(176, 210, 255);
+border: 5px solid rgb(0, 0, 255);
+border-radius: 50px;
+    padding: 15px;
+    margin: 50px 20% 50px 20%;
+  }
+.alinh {
+    text-align: left;
+    margin: 0px 0px 5% 25%;
+}
+.alinh2 {
+    text-align: left;
+    margin: 0px 0px 5% 10%;
+}
+
+
+.BoxF {
+    margin: 150px 20%;
+    width: 60%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 15px solid rgb(230, 70, 70);
+    border-radius: 50px;
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+  </style>
+</head>
+<body>
+    <h1 id="tito">CURRICULO - LUCAS F. MARTINS</h1>
+
+
+
+    <div class="Box1">
+        <div id="subB1">
+            <img id="img1" src="https://i0.wp.com/kikafotografa.com/wp-content/uploads/2022/08/fotos-para-curriculo-para-comissario-de-voo-13.jpg?resize=732%2C1024&ssl=1">
+        </div>
+        
+        
+        
+        <div id="subB2">
+            
+                    <div class="ss1">
+                        <img class="mimg" src="https://static.vecteezy.com/system/resources/previews/022/152/955/non_2x/arrow-sign-in-square-png.png">   
+                        <p><b>Nome Completo:</b> Lucas Ferreira Martins</p>
+                    </div>
+                    <div class="ss1">
+                        <img class="mimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Google_Maps_icon_%282015-2020%29.svg/960px-Google_Maps_icon_%282015-2020%29.svg.png">   
+                        <p><b>Localização:</b> São Paulo–SP</p>
+                    </div>
+                    <div class="ss1">
+                        <img class="mimg" src="https://images.icon-icons.com/730/PNG/512/gmail_icon-icons.com_62758.png">   
+                        <p><b>Gmail:</b>lucas.martins@email.com</p>
+                    </div>
+                    <div class="ss1">
+                        <img class="mimg" src="https://i.pinimg.com/564x/ca/90/0d/ca900d3cae9adaad08cc25a3dcc4e5a5.jpg">   
+                        <p><b>Telefone:</b> (11) 77777-6666</p>
+                    </div>
+                    <div class="ss1">
+                        <img class="mimg" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">  
+                        <p><b>GitHub:</b> github.com/lucasferreira</p>
+                    </div>
+                    <div class="ss1">
+                        <img class="mimg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png">  
+                        <p><b>LinkedIn:</b> linkedin.com/in/lucasferreiramartins</p>
+                    </div>
+            
+            
+        </div>
+    </div>
+        
+    
+    <div class="BoxPO">
+        <h2 class="titoPO">OBJETIVO</h2>
+    
+    <p>Atuar na área de Tecnologia da Informação como Desenvolvedor de Software ou Analista de Sistemas, contribuindo no desenvolvimento de soluções eficientes, escaláveis e seguras, com foco em inovação e melhoria contínua.</p>
+
+    </div>
+
+    
+    <div class="BoxPO">
+        <h2 class="titoPO">RESUMO PROFISSIONAL</h2>
+    
+    <p>Profissional de Tecnologia da Informação com mais de 7 anos de experiência em desenvolvimento de software, análise de sistemas e suporte técnico.
+Experiência sólida em aplicações web, integração de sistemas, modelagem de banco de dados e desenvolvimento de APIs REST.
+Atuação com metodologias ágeis, versionamento de código e ambientes em nuvem. Perfil analítico, proativo e orientado a resultados.</p>
+    </div>
+
+
+     <div class="BoxPO">
+        <h2 class="titoPO">FORMAÇÃO ACADÊMICA</h2>
+    
+    <h4>Bacharelado em Ciência da Computação</h4>
+    <p>Universidade de São Paulo (USP) – São Paulo, SP
+Conclusão: 2016</p>
+    
+<h4>Pós-graduação em Engenharia de Software</h4>
+    <p>Universidade Presbiteriana Mackenzie – São Paulo, SP
+Conclusão: 2019</p>
+</div>
+
+    
+     <div class="BoxPO">
+        <h2 class="titoPO">EXPERIÊNCIA PROFISSIONAL</h2>
+    
+        <h3>Analista de Sistemas Sênior</h3>
+    <p>TechSolutions Brasil – São Paulo, SP
+📅 2021 – Atual</p>
+    
+<h4>Responsabilidades:</h4>
+    <ul class="alinh2">
+        <li>Desenvolvimento e manutenção de sistemas corporativos</li>
+        <li>Levantamento e análise de requisitos</li>
+        <li>Modelagem de banco de dados</li>
+        <li>Desenvolvimento de APIs REST</li>
+        <li>Integração entre sistemas</li>
+    </ul>
+    
+<h4>Destaques:</h4>
+    <ul class="alinh2">
+       <li>Redução de 30% no tempo de resposta de aplicações</li>
+        <li>Liderança de equipe (5 desenvolvedores)</li>
+        <li>Implementação de boas práticas de código</li>
+    </ul>
+    
+    
+    <h3>Desenvolvedor Full Stack</h3>
+     <p>InovaSoft Tecnologia – São Paulo, SP
+📅 2018 – 2021</p>
+    <ul class="alinh2">
+        <li>Desenvolvimento de aplicações web completas</li>
+        <li>Criação de interfaces responsivas</li>
+        <li>Integração com APIs externas</li>
+        <li>Otimização de performance</li>
+    </ul>
+    
+    <h3>Suporte Técnico em TI</h3>
+     <p>InfoTech Services – São Paulo, SP
+📅 2016 – 2018</p>
+    <ul class="alinh2">
+        <li>Suporte a usuários</li>
+        <li>Manutenção de equipamentos</li>
+        <li>Configuração de sistemas</li>
+        <li>Monitoramento de redes</li>
+    </ul>
+  </div>
+
+         <div class="BoxPO">
+        <h2 class="titoPO">HABILIDADES TÉCNICAS</h2>
+    
+    <p class="alinh">
+<b>Linguagens:</b> Python, JavaScript, Java, C#<br>
+<b>Front-end:</b> HTML5, CSS3, React<br>
+<b>Back-end:</b> Node.js, Django, Spring Boot<br>
+<b>Banco de Dados:</b> MySQL, PostgreSQL, MongoDB<br>
+<b>Ferramentas:</b> Git, GitHub, VS Code, Docker<br>
+<b>Metodologias:</b> Scrum, Kanban<br>
+<b>Cloud:</b> AWS, Azure<br>
+<b>Sistemas:</b> Linux, Windows Server
+</p>
+  </div>
+
+
+      <div class="BoxPO">
+        <h2 class="titoPO">CERTIFICAÇÕES</h2>
+   <ul class="alinh2">
+        <li>AWS Certified Cloud Practitioner – 2022</li>
+        <li>Scrum Foundation Professional Certificate – 2021</li>
+        <li>Cisco Networking Basics – 2020</li>
+    </ul>
+    </div>   
+
+
+          <div class="BoxPO">
+        <h2 class="titoPO">IDIOMAS</h2>
+   <ul class="alinh">
+        <li><b>Português:</b> Nativo</li>
+        <li><b>Inglês:</b> Avançado</li>
+        <li><b>Espanhol:</b> Intermediário</li>
+    </ul>
+    </div>   
+
+          <div class="BoxPO">
+        <h2 class="titoPO">PROJETOS RELEVANTES</h2>
+    <h4>Sistema ERP</h4>
+     <p>Controle financeiro e estoque para empresas de médio porte.</p>
+    <h4>Plataforma E-commerce</h4>
+     <p>Sistema completo de vendas online com integração de pagamentos.</p>
+    <h4>API de Usuários</h4>
+    <p>Sistema com autenticação e gerenciamento de dados.</p>
+    </div>   
+
+
+              <div class="BoxPO">
+        <h2 class="titoPO">INFORMAÇÕES ADICIONAIS</h2>
+ <ul class="alinh">
+        <li>Disponibilidade para viagens</li>
+        <li>Facilidade de aprendizado</li>
+        <li>Trabalho em equipe</li>
+        <li>Interesse constante em tecnologia</li>
+    </ul>
+    </div>   
+
+    <div class="BoxF">
+        <p><b>Site do Curriculo feito pelo aluno:</b><br>
+             Miguel Tokiaki Takahassi Nakashima - 1° Ano DS</p>
+
+
+    </div>
+
+
+
+
+
+</body>
+</html>
